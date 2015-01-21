@@ -1,2 +1,4 @@
 1. Team work
+2. changes in the first local repository
 2. Changes in the second local repository
+
